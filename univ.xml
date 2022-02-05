@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="univ.xsl"?>
+<Christ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="univ.xsd">
+
+   <computerscience>
+      <studentname>govind</studentname>
+      <studentuniversity>Bengaluru</studentuniversity>
+      <studentphone>9876666677</studentphone>
+      <studentemail>govind@christuniv.in</studentemail>
+   </computerscience>
+
+   <computerscience>
+      <studentname>aravind</studentname>
+      <studentuniversity>bengaluru</studentuniversity>
+      <studentphone>1234567654</studentphone>
+      <studentemail>arav@christuniv.in</studentemail>
+   </computerscience>
+
+
+   <computerscience>
+      <studentname>kumar</studentname>
+      <studentuniversity>delhi</studentuniversity>
+      <studentphone>8787656545</studentphone>
+      <studentemail>kumar@christuniv.in</studentemail>
+   </computerscience>
+</Christ>
